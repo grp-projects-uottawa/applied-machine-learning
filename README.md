@@ -1,3 +1,2 @@
 # applied-machine-learning
-fjfjfjfjfgjfg
-flfg**lflf
+Assignment 2
